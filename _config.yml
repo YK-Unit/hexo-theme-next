@@ -190,6 +190,7 @@ social:
   #Skype: skype:yourname?call|chat || skype
   掘金: https://juejin.im/user/569db819816dfa005959d881 || link
   简书: https://www.jianshu.com/u/1e4e723ece8c || link
+  RSS: /atom.xml || rss
 
 social_icons:
   enable: true
