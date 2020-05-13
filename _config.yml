@@ -191,6 +191,8 @@ social:
   掘金: https://juejin.im/user/569db819816dfa005959d881 || link
   简书: https://www.jianshu.com/u/1e4e723ece8c || link
   RSS: /atom.xml || rss
+  Sitemap: /sitemap.xml || sitemap
+
 
 social_icons:
   enable: true
@@ -467,7 +469,7 @@ exturl: false
 
 # Google Webmaster tools verification.
 # See: https://www.google.com/webmasters
-google_site_verification:
+google_site_verification: KJvGq6g2FonLPqrACnuoRa3Iz45opat9gWxcEy1n55k
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmaster
@@ -479,7 +481,7 @@ yandex_site_verification:
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification:
+baidu_site_verification: g9YOLSrZfL
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
 baidu_push: true
